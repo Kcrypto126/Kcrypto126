@@ -1,5 +1,5 @@
 <h1 align="left">
-    💫 Senior Web Developer 💫
+    💫 Sr Software Developer 💫
 </h1>
 
 **CryptoBird** is a dedicated blockchain developer and IT engineer committed to pushing the boundaries of technology and delivering innovative online solutions. With a strong emphasis on creating visually captivating and high-performance websites, **CodingBug** integrates the latest industry trends and best practices into every project. Through continuous learning and exploration, **CodingBug** transforms ideas into reality, demonstrating the immense potential of technological advancements in the digital landscape.
