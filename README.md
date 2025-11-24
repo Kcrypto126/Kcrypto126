@@ -11,7 +11,7 @@ Kcrypto126 is a dedicated blockchain developer and AI engineer committed to push
         <li>**Blockchain Development** Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-chain, Crypto Trading Bot.</li>
         <li>**Desktop App Development** with ElectronJS, Tauri, PyQT, QT etc. </li>
         <li>**AI Chatbot and AI Development** with RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.</li>
-        <li>**AI Agent Development** with Elizaos AI agent framework, RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.</li>
-        <li>**Bot Development** in Telegram Tap To Earn Game(like *Hamster Kombat*), Discord Bot, Automation tools.  </li>
+        <li>**AI Agent Development** with Elizaos AI agent framework, LangChain, CrewAI, OpenAI AgentsSDK, Rasa, LangGraph and etc.</li>
+        <li>**Bot Development** in Telegram Tap To Earn Game(like *Hamster Kombat*), Discord Bot, Scraping Bot, Automation tools.  </li>
         <li>**CMS Development** using WordPress platform : Elementor & Divi builder, Theme and Plugin customization, SEO and ...</li>
       </ul>
